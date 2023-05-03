@@ -2,7 +2,7 @@
 Author: Jesus Zeno
 
 # Overview:
-The purpose of this tutorial is to help users integrate single cell RNAseq data across different conditions to indentify cells that are similar to each other. This workflow will start from the barcodes, genes, and matrix files and end with visualization of the clusters based on patient and tissue type.
+The purpose of this tutorial is to help users integrate single cell RNAseq data across different conditions to identify cells that are similar to each other. This workflow will start from the barcodes, genes, and matrix files and end with visualization of the clusters based on patient and tissue type.
 ![Single Cell Workflow](sc_workflow_2022.jpg)
 
 ## Table of Contents
